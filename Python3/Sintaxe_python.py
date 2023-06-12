@@ -18,7 +18,7 @@ if 5 > 2:
          print("Isso aí, cinco é maior 2 ")
 
 
-# Agora que o comando estiver na mesma condição precisa está com a mesma identação. 
+# Agora que o comando estiver na mesma condição precisa está com a mesma identação, dessa forma está errada. 
 if 5 > 2:
  print("Five is greater than two!")
         print("Five is greater than two!")
